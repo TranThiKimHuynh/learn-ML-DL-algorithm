@@ -26,3 +26,12 @@ Traing data ( 28 degrees ): Need to mapping from raw data.
 - **predict** :
 
 * **evaluate** : Evaluate the model's prediction results based on the following metrics : _accuracy, precision, recall and F1-score_ (similar to the classification_report method of scikit-learn)
+
+## 03 - Intro to Neural Network
+
+- Create a simple deep neural network
+- Tune the hyperparameters for a simple deep neural network.
+
+### Dataset
+
+[Calfifornia Housing Dataset](https://developers.google.com/machine-learning/crash-course/california-housing-data-description)
